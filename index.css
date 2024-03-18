@@ -22,7 +22,7 @@ main {
 }
 main img {
     width: 300px;
-    border-radius: 100%;
+    border-radius: 50%;
     box-shadow: 29px 32px 20px 5px rgba(0,0,0,0.1);
 }
 .card-red {
