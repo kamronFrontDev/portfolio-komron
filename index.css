@@ -21,8 +21,9 @@ main {
     padding: 60px 150px;
 }
 main img {
-    width: 300px;
+    width: 400px;
     border-radius: 50%;
+    box-shadow: 29px 32px 20px 5px rgba(0,0,0,0.1);
 }
 .card-red {
     display: flex;
